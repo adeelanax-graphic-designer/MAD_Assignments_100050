@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment02_INTENT</string>
+    <string name="_1_open_second_activity">1. Open Second Activity</string>
+    <string name="_2_start_service">2. Start Service</string>
+    <string name="_3_open_dialer">3. Open Dialer</string>
+    <string name="_4_share_content">4. Share Content</string>
+    <string name="_5_send_broadcast">5. Send Broadcast</string>
+</resources>
